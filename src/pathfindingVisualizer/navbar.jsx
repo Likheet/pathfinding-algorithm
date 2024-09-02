@@ -151,8 +151,8 @@ class NavBar extends Component {
     }
     let value = [10, 10];
     if (speed === "Slow") value = [50, 30];
-    else if (speed === "Medium") value = [25, 20];
-    else if (speed === "Fast") value = [10, 10];
+    else if (speed === "Medium") value = [20, 20];
+    else if (speed === "Fast") value = [10, 15];
     this.setState({ speedState: speed });
     this.props.updateSpeed(value[0], value[1]);
   }
@@ -160,7 +160,7 @@ class NavBar extends Component {
   render() {
     return (
       <Navbar bg="dark" variant="dark" expand="lg">
-        <Navbar.Brand href="https://rohithaug.github.io/pathfinding-visualizer/">
+        <Navbar.Brand href="https://likheet.github.io/pathfinding-algorithm/">
           {brand}
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
