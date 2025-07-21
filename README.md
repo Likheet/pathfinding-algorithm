@@ -11,7 +11,7 @@ This visualizer serves as an educational tool designed to make learning about al
 
 Whether you're a student diving into computer science, a developer looking to refresh your knowledge, or simply a curious mind, this visualizer offers a hands-on experience to demystify these fascinating algorithms.
 
-## Key Features
+## Key Features of the project
 
 *   **Interactive Grid:** Easily create walls and define start/end nodes by clicking and dragging on the grid.
 *   **Algorithm Selection:** Choose from a diverse set of pathfinding algorithms to compare their behaviors.
