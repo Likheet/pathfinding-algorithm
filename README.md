@@ -26,8 +26,6 @@ Whether you're a student diving into computer science, a developer looking to re
 
 ## Implemented Algorithms
 
-This visualizer showcases a range of pathfinding and maze generation techniques, allowing you to see their differences and strengths firsthand.
-
 ### Pathfinding Algorithms
 
 *   **A* Search:** A highly popular and efficient algorithm that uses heuristics to intelligently guide its search, often guaranteeing the shortest path.
